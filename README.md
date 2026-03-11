@@ -10,7 +10,7 @@ CrowdUp is a crowdfunding platform that helps you get funding for your personal 
 
 #### Available Pages
 
-1. Home
+1. Home1
 2. How it works
 3. Campaigns
 4. Campaign details
