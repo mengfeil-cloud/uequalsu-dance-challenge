@@ -92,7 +92,7 @@ const router = createBrowserRouter(
     }
   ],
   {
-    basename: "/Ladym"
+    basename: "/uequalsu-dance-challenge"
   }
 );
 
